@@ -9,7 +9,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
-// tells spring that this class represents a table in the db
 public class CraftBeer {
 
 	@Id // Primary ID
