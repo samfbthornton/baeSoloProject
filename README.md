@@ -75,6 +75,9 @@ Unit testing
 ![integration](https://i.imgur.com/1hWSNmB.png)
 Integration testing
 
+![Imgur](https://i.imgur.com/1fAGgO8.png)
+Testing coverage
+
 ### STRETCH GOALS
 
 Further improvemts could include:
